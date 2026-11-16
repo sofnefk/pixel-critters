@@ -102,11 +102,6 @@ Use your own paths. `pythonw` runs without a terminal window, so quit with `Ctrl
 
 I saw a video of animated pixel animals on a screen and wanted my own on my desktop. When I showed it to my dad, he recognised the sprites straight away. He used to play with sprites in the late 80s, from a huge programming book his father brought back from the States. We ended up swapping stories, and he gave me a few ideas for what to add next.
 
-## Credits
-
-- The idea comes from a reel by [@stephenz.mp4](https://www.instagram.com/reel/DftQVk-Tfok/). All the sprites and code here are my own version, not copied from it.
-- I wrote this with help from AI: Claude (Anthropic) wrote most of the code while I described what I wanted, tested it on my PC and reported what I saw, and ChatGPT helped me set up the GitHub repo.
-
 ## License
 
 MIT, see [LICENSE](LICENSE).
