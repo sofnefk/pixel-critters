@@ -35,8 +35,8 @@ Pixel Critters brings a little life to an otherwise ordinary desktop. Tiny pixel
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/critters.git
-cd critters
+git clone https://github.com/YOUR-USERNAME/pixel-critters.git
+cd pixel-critters
 ```
 
 Create and activate a virtual environment:
