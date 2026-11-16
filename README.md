@@ -2,7 +2,7 @@
 
 A tiny pixel-art animal world that lives on your Windows desktop, behind your icons. Butterflies, jellyfish, dragonflies, koi, frogs and crabs wander around, leave little ASCII trails, and run away from your mouse. Click and they scatter.
 
-I'm a humanities student teaching myself Python by building things, and this is my second project.
+I'm a humanities student teaching myself Python by building things, and this is one of my first projects.
 
 ![Desktop Critters demo](assets/critters-demo.gif)
 
