@@ -35,8 +35,8 @@ Pixel Critters brings a little life to an otherwise ordinary desktop. Tiny pixel
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/pixel-critters.git
-cd pixel-critters
+git clone https://github.com/YOUR-USERNAME/critters.git
+cd critters
 ```
 
 Create and activate a virtual environment:
@@ -57,19 +57,19 @@ py -m pip install -r requirements.txt
 **Preview mode** — open the animation in a normal window:
 
 ```bash
-py pixel_critters.py
+py critters.py
 ```
 
 **Wallpaper mode** — place the animation behind your desktop icons:
 
 ```bash
-py pixel_critters.py wallpaper
+py critters.py wallpaper
 ```
 
 **Snapshot mode** — generate a still image for your lock screen:
 
 ```bash
-py pixel_critters.py snapshot koi
+py critters.py snapshot koi
 ```
 
 Replace `koi` with another species to generate a different image.
