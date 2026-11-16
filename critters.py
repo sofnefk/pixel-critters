@@ -1,9 +1,9 @@
 """
 PIXEL CRITTERS - an interactive animated desktop background (Windows).
 
-Run a preview in a normal window:   python pixel_critters.py
-Run as your real wallpaper:         python pixel_critters_v5.py wallpaper
-Make a picture for the lock screen: python pixel_critters_v5.py snapshot koi
+Run a preview in a normal window:   python critters.py
+Run as your real wallpaper:         python critters.py wallpaper
+Make a picture for the lock screen: python critters.py snapshot koi
 
 Controls (work from anywhere, even in wallpaper mode):
     Ctrl+Alt+Right / Left  = next / previous animal

@@ -1,8 +1,5 @@
 __pycache__/
-*.py[cod]
+*.pyc
 .venv/
-venv/
-.env
-.idea/
-.vscode/
-.DS_Store
+lockscreen_*.png
+*.bat
