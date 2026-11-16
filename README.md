@@ -3,6 +3,7 @@
 An interactive, animated desktop background built with **Python** and **Pygame** for Windows.
 
 Pixel Critters brings a little life to an otherwise ordinary desktop. Tiny pixel-art creatures wander around the screen, leave glowing trails, and react to the movement of your mouse. You can switch between different species, watch them interact with their surroundings, or simply let them do their thing in the background.
+
 ![Pixel Critters in action](assets/critters-demo.gif)
 
 ## ✨ Features
